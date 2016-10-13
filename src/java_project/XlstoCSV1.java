@@ -77,7 +77,7 @@ public class XlstoCSV1 {
     }
     //testing the application 
 
-    public static void main(String[] args) {
+    public static void callmethod () {
     	
     	
         //reading file from desktop
